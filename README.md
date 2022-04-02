@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KAA20Work
+- 👀 I’m interested in web and desktop developing
+- 🌱 I’m currently learning java and c# languages
